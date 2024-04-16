@@ -21,9 +21,5 @@ document.addEventListener('DOMContentLoaded', function() {
     contactBut.addEventListener('click', function() {
         form.scrollIntoView({behavior: 'smooth'});
     });
-    form.addEventListener('click', function () {
-        topSection.scrollIntoView({behavior: 'smooth'});
-    });
-
   });
   
