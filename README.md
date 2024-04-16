@@ -1,1 +1,1 @@
-https://bans-psspss.github.io
+https://bams-psspss.github.io
